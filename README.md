@@ -6,7 +6,7 @@
 
 <br>
 
-![Website banner!](img/miBanner.png)
+![Website banner!](./assets/img/readme.jpg)
 
 <br>
 
