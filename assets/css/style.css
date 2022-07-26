@@ -1,11 +1,33 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300;700&family=Open+Sans:wght@300;400;700&display=swap");
 
+/** header */
+* {
+  margin: 0;
+}
+.header {
+  width: 100% !important;
+  height: 6rem !important;
+}
+/** End header */
+
+.switchBx {
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1,
+p {
+  text-align: center;
+  margin: 30px;
+}
 body {
   font-family: "Open Sans condensed", sans-serif;
 }
 .english,
 .spanish {
   color: #333;
+  padding: 10px;
 }
 .check {
   position: relative;
